@@ -4,4 +4,12 @@
 - Ký hiệu: A→B 
 ## Các loại phụ thuộc hàm
 1. Trivial Functional Dependency (Phụ thuộc hàm tầm thường)
-2. Non – Trivial Functional Dependency (Phụ thuộc hàm phi tầm thường) 
+- X -> Y là một Trivial FD nếu Y là một tập con của X. X và Y là các tập hợp thuộc tính.
+- VD: AB -> A , X = {A, B}, Y = {A}
+2. Non – Trivial Functional Dependency (Phụ thuộc hàm phi tầm thường)
+- X -> Y là một Non – Trivial Functional Dependency nếu Y không phải là một tập con của X. X và Y là các tập hợp thuộc tính
+- VD: AB -> C, X = {A, B}, Y = {C}
+3. Semi - Trivial Functional Dependency (Phụ thuộc hàm bán tầm thường)
+- X ->Y là một Semi - Trivial Functional Dependency, nếu X ∩ Y ≠ Ø và Y không là tập con của X. X và Y là các tập hợp thuộc tính
+- VD: AB -> AC
+
