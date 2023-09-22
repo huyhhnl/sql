@@ -14,4 +14,4 @@
 - COMMENT(ID_COMMENT , TIME_COMMENT, NOI_DUNG)
 
 ## Thiết kế ERD
-![Báo điện tử ERD](https://drive.google.com/file/d/1A1Gk8FpIwYNVXo_ujO5Wn6ZgdoK5PvL8/view?usp=sharing)
+![Báo điện tử ERD](https://scontent.fhan16-1.fna.fbcdn.net/v/t1.15752-9/381056760_285121790978831_1271942975210733334_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=tOcO_m3UXQ4AX_9BXaF&_nc_ht=scontent.fhan16-1.fna&_nc_e2o=s&oh=03_AdTNg7YxSDWQrGHHI_zt0nqK7akx2aseEHC87vQcmLfI9g&oe=65349343)
