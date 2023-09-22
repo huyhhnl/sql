@@ -1,4 +1,4 @@
-# Cơ sở dữ liệu báo điện tử sẽ có 6 đối tượng chính:
+## Cơ sở dữ liệu báo điện tử sẽ có 6 đối tượng chính:
 - Quản trị viên trang web sẽ quản lý bài đăng của các reposter (duyệt hay không duyệt).
 - Reposter (phóng viên) sẽ thực hiện viết bài và đăng bài( chờ quản trị viên duyệt).
 - Người sử dụng xem thông tin trên các bài viết, có thể tìm bài viết qua các tiêu đề, ...
@@ -12,3 +12,6 @@
 - POST(ID_POST , TIEU_DE , NOI_DUNG , IMAGE , TAC_GIA ,LUOT_XEM,  XET_DUYET, NGUOI_DUYET, THOI_GIAN_DANG )
 - SHARE(ID_SHARE, TIME_SHARE)
 - COMMENT(ID_COMMENT , TIME_COMMENT, NOI_DUNG)
+
+## Thiết kế ERD
+![Báo điện tử ERD](https://drive.google.com/file/d/1A1Gk8FpIwYNVXo_ujO5Wn6ZgdoK5PvL8/view?usp=sharing)
