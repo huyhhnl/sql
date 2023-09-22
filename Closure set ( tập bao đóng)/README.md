@@ -6,4 +6,4 @@
   - C -> DE
   - CD -> AB
 - Closure set A hay A+ là tập hợp các thuộc tính được xác định bởi A.
-- A+ = {A, B, D} do A -> A, A -> B, B -> D mà A -> B nê theo tích chất bắc cầu có A -> D. Tương tự với B+, C+, D+, E+.
+- A+ = {A, B, D} do A -> A, A -> B, B -> D mà A -> B nên theo tích chất bắc cầu có A -> D. Tương tự với B+, C+, D+, E+.
