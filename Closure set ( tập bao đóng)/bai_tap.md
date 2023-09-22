@@ -17,7 +17,7 @@ Cho lược đồ quan hệ R(ABCDEFG) với các tập phụ thuộc sau:
 - F -> E
 - G -> A
 
-* (CF)+ = {C, F, G, E, A, D}
+-> (CF)+ = {C, F, G, E, A, D}
 * (BG)+ = {B, G, A, C, D}
 * (AF)+ = {A, F, E, D}
 * (BA)+ = {A, B, C, D, G} 
