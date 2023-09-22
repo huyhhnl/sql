@@ -7,4 +7,4 @@
   - CD -> AB
 - Closure set A hay A+ là tập hợp các thuộc tính được xác định bởi A.
 - A+ = {A, B, D} do A -> A, A -> B, B -> D mà A -> B nên theo tích chất bắc cầu có A -> D. Tương tự với B+, C+, D+, E+.
-- Chúng ta có thể dựa và tập bao đóng để tìm các key có trong ralation đó.
+- Chúng ta có thể dựa và tập bao đóng để tìm các key có trong relation đó.
