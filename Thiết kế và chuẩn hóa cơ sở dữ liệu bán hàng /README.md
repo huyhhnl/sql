@@ -14,3 +14,5 @@ Một tiệm tạp hóa cần quản lý việc mua bán hàng hóa của tiệm
 - Nhiệm vụ của các bạn là xác định được các đối tượng cần có trong một cơ sở dữ bán hàng và các thuộc tính của các đối tượng, sau đó thể hiện qua sơ đồ ER.
 
 ## 2. Thiết kế ERD
+
+![ERD](images/ban_hang_erd.png)
